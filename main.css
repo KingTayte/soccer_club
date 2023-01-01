@@ -7,3 +7,12 @@ li:hover{
 .card-header{
 	background-color: grey;
 }
+
+.card-img-top{
+	max-width: 200px;
+}
+
+.d-block{
+	max-height: 500px;
+	width: 100%;
+}
